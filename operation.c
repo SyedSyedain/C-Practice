@@ -3,10 +3,10 @@ int main()
 {
     char operation;
     printf(" Enter the desired operator(+,-,/,*)\n");
-    scanf("%c",&operation);
+    scanf("%c", &operation);
     double Num1, Num2, result;
     printf("Enter the first Number?");
-    scanf("%lf",&Num1);
+    scanf("%lf", &Num1);
     printf("Enter the second Number?");
     scanf("%lf", &Num2);
 
